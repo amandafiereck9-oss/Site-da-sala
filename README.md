@@ -7,8 +7,12 @@
 
 /INFO2
 |-Inicio 
-|- Horario
-|-M
+|-Horário
+|-Matérias
+|-Museu
+|-professores
+|-Reportagens
+|-Acesso
 
 
 instalar as ferramentas utilizadas 
@@ -25,6 +29,7 @@ navegador
 
 instalar as depêndencias
 rodar os programas necessarios
+
 ##Funcionalidade 
 
 ##Licensa
