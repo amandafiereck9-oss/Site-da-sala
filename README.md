@@ -8,18 +8,45 @@
 /INFO2
 |-Inicio 
 essa página posos o acesso as outras páginas,uma logo da sala, um espaço para o mascote, mural de avisos onde é possivel publicar avisos.
+um bamnner de saudação
+mascote 
+logo da sala 
+acesso as paginas secundarias
+painel de avisos, possibilidade de escrita de avisos
+interação do mascote 
+
 |-Horário
 o horário é onde é possivel ver qual aula possui em seu respequitivo dia é determinado horário. 
+botão de voltar 
+criado uma tabela com os horario de aula
+icone mostram quandos diias de aula a semna possui e quantas aulas por dia.
 |-Matérias
 esta todas as aulas que temos é também o que está sendo ensinado 
+possui 21 card cada indentifica uma materia e como a aula que esta tendo no momento
 |-Museu
-o museu possui a foto da nossa camisa, a historia da origem da camisa, possui 3 lembranças impactantes de momentos coletivos
+o museu possui a foto da nossa camisa
+<img width="754" height="464" alt="Captura de tela 2026-11-05 111609" src="https://github.com/user-attachments/assets/41017246-70b0-4bb1-88b9-662b9b909815" />
+card contando historia da origem da camisa
+subtitulo lembranças
+possui 3 cards com lembranças momentos coletivos
+botão de voltar
 |-professores
-é a pagina que possui fotos dos professores que dão aula pra nossa turma é a materia dele.
+titulo are dos professore 
+é a pagina que possui fotos dos professores que dão aula pra nossa turma é sua respectuva materias
+botão de voltar
 |-Reportagens
-o espaço é destinado a entrevistas com os reonsaveis pela organização da escola, é um resumo da entrevista
+o espaço é destinado a entrevistas com os reponsaveis pela organização da escola, 
+é um resumo da entrevista
+possui link de acesso
+opção de legenda
+botão de assitr 
+botão de voltar
 |-Acesso
 é o local onde você realiza o login.
+botão de voltar 
+espaço para o nome
+caixa de seleção
+opção de acessar como visitante 
 
 instalar as ferramentas utilizadas 
 canva
@@ -38,6 +65,12 @@ rodar os programas necessarios
 
 ##Funcionalidade 
  permisão para usuário interno acessar o site 
+ avatar interagindo
+ painel de aviso
+ acessar os videos 
+ butão de voltar 
+ acessar a pagina desejad acom um click
+
 ##Licensa
 mit 
  
