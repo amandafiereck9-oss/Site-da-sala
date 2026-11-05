@@ -31,7 +31,7 @@ instalar as depêndencias
 rodar os programas necessarios
 
 ##Funcionalidade 
-
+ permisão para usuário interno acessar o site 
 ##Licensa
 mit 
  
