@@ -8,12 +8,13 @@
 /INFO2
 |-Inicio 
 essa página posos o acesso as outras páginas,uma logo da sala, um espaço para o mascote, mural de avisos onde é possivel publicar avisos.
-um bamnner de saudação
+um banner de saudação
 mascote 
 logo da sala 
 acesso as paginas secundarias
 painel de avisos, possibilidade de escrita de avisos
 interação do mascote 
+
 
 |-Horário
 o horário é onde é possivel ver qual aula possui em seu respequitivo dia é determinado horário. 
@@ -55,10 +56,12 @@ git
 github
 prompt de comando 
 google documentos
-php
+php 
 msql
-bootstrap
-navegador
+bootstrap,buma.io
+navegador chrome,firefox,edge.
+sistema operacional 
+norma abnt 
 
 instalar as depêndencias
 rodar os programas necessarios
