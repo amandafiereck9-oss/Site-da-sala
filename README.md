@@ -73,7 +73,9 @@ rodar os programas necessarios
  acessar os videos 
  butão de voltar 
  acessar a pagina desejad acom um click
-
+ na data 12 de novembro ficou confirmando que o video vai ser comprimido em svg
+ o grupo de teste vai verificar se o esta antendendo toodos os requisitos vai fazer o deploy utilizando a hospedagem link nacional é o dominio eepddutra.com verificar se o site esta sendo responsivo no pc, no tablet, no celular.
+ e verificar todas as funcionalidades.
 ##Licensa
 mit 
  
