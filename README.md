@@ -109,8 +109,46 @@ Link HTTPS do vídeo: Campo para inserir o vídeo hospedado externamente.
 Legenda: Campo para adicionar créditos ou descrição curta.  
 Ação: Botão laranja "Assistir" que indica a abertura de um link externo.  
 
+Trabalho Jesus 
+
+O seguinte grupo (
+Enzo da Silva Maximiniano
+Polyana Maria Lopes de Lima
+Lucas Oliveira Linhares
+Lucas Gabriel de Carvalho Dias
+Lucas Vieira) 
+fez uma entrevista no dia 3/11 com a direção da Escola Estadual Presidente Dutra.
+As perguntas abordadas foram 
+|Entrevistas
+PEDRO (Diretor Geral)
+● Pergunta 1: Pedro, o que te fez olhar para esta escola lá no início e pensar "eu quero ser o diretor daqui"? E qual foi a primeira grande mudança que você colocou como meta fazer?
+● Pergunta 2: Como é a sensação de tomar decisões que afetam diretamente a vida de centenas de alunos e professores, e como você lida com a pressão e a responsabilidade desse cargo no seu dia a dia?
+● Pergunta 3: O que mais tira o seu sono como diretor hoje e qual foi a maior vitória que você já comemorou aqui dentro da escola?
+● Pergunta 4: Se você pudesse voltar no tempo e assumir a direção da escola sabendo de tudo o que sabe hoje, o que você faria de um jeito completamente diferente?
+MARGARETE (Vice-Diretora)
+●
+● Pergunta 1: Margarete, além de estar na vice-direção, você lida direto com o
+apoio aos alunos. O que te motivou a assumir esse papel de liderança e qual foi o conflito ou desafio mais complexo que você precisou mediar aqui dentro?
+● Pergunta 2: A escola vai muito além da sala de aula, envolvendo convivência e inteligência emocional. Como você se prepara para acolher um aluno que traz problemas sérios de fora para dentro do colégio?
+● Pergunta 3: Muitas vezes, a sua função exige aplicar advertências ou lidar com a indisciplina. Como gerenciar a escola e dar as ordens de forma justa, garantindo que o aluno entenda o erro em vez de simplesmente pegar "ranço" da direção?
+● Pergunta 4: Para fechar: qual é a maior barreira que você enfrenta hoje para fazer com que os alunos se engajem mais e respeitem o ambiente escolar, e qual é a sua estratégia na vice-direção para superar isso?
+SILVO (Vice-Diretor)
+● Pergunta 1: Silvo, equilibrar a vice-direção com a coordenação pedagógica deve ser uma grande missão. Qual foi o maior desafio que você enfrentou
+  
+ para adaptar o modelo de ensino da nossa escola às tecnologias atuais, e
+como prender a atenção de uma geração que se distrai tão fácil?
+● Pergunta 2: Na sua visão de gestor e vice-diretor, qual é o maior peso para o
+aluno hoje: a cobrança da própria família pelas notas, a concorrência com os
+colegas ou a autocobrança para passar no vestibular e definir o futuro?
+● Pergunta 3: Se você pudesse usar a sua autonomia como vice-diretor para
+redesenhar o currículo ou a grade de aulas da escola hoje e incluir uma matéria nova que não existe (como educação financeira, oratória ou inteligência emocional), qual seria?
+● Pergunta 4: Você vive de perto o rendimento dos alunos e o andamento do colégio. Qual foi a história de superação de um estudante que parecia "caso perdido" e que te provou que o trabalho da direção e dos professores realmente transforma vidas?
+
+E as respostas estão gravadas em vídeo
+
 4. Resumo Geral da Arquitetura do Site (Mapa Completo)  
 Para referência rápida, o fluxo completo do protótipo Info2 segue a numeração estrutural abaixo.
+
 
 |-Acesso
 é o local onde você realiza o login.
